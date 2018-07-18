@@ -27,6 +27,8 @@ The installation process for all the necessary Android/iOS dependencies and tool
 
 1. In a new folder, clone or download this jss-viro repo.
 
+1. In `jss-viro/basicp-sample-react-native/src/`, rename `config.example.js` to `config.js` and add your Viro API key to the file.
+
 1. Navigate to `jss-viro/basic-sample-react-native`
 
 1. Run `npm install`
